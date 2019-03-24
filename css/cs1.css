@@ -1,0 +1,42 @@
+/*colo fondo de la barra del menu*/
+.top-bar{
+    background: rgb(27, 64, 75);
+}
+.menu{
+  z-index: 100;
+}
+
+/* estilo del título de la web*/
+
+  #titulo {
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 48px;
+  }
+               
+
+  #oso:hover{
+  border-radius:50%;
+  -webkit-border-radius:50%;
+  box-shadow: 0px 0px 15px 15px #ec731e;
+  -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+  transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  }
+/*fondo de pagina, no funciona*/
+/*
+body {
+  background-size: cover;
+background: rgb(36, 55, 59) url(../images/fondo.jpg) center center cover no-repeat fixed;
+}
+*/
+
+/*os distintos colores de la web, no funciona*/
+/*
+.image-hoover-wrapper{
+  primary: #1779ba,
+  secondary: #767676,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+}
+*/
